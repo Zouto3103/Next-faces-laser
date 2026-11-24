@@ -1,0 +1,5 @@
+# Dependencias de DESENVOLVIMENTO (rodar os testes fora do Fusion).
+# O add-in em si (dentro do Fusion) NAO usa nenhuma dessas bibliotecas --
+# so a biblioteca padrao do Python, conforme exigido pelo ambiente do Fusion.
+pytest>=7.0
+ezdxf>=1.0  # opcional: so usado se algum teste futuro precisar validar um DXF de exemplo

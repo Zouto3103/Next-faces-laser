@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "author": "",
+    "description": {
+        "": "FusionLaserNest: nivela faces planas, faz nesting com rotacao e exporta DXF/SVG para corte a laser."
+    },
+    "supportedOS": "windows",
+    "editEnabled": true
+}
